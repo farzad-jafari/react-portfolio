@@ -1,40 +1,36 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "name": "Farzad Jafari",
+    "occupation": "ReactJS Developer",
+    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night.",
     "image": "IG_Sonny.jpeg",
     "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "f.jafari8990@gmail.com",
+    "phone": "-",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "-",
+      "city": "Tehran",
+      "state": "Tehran",
+      "zip": "-"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.farzadjafari.ir",
+    "resumedownload": "https://www.linkedin.com/in/farzadjafari/",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
+      
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/farzadjafari/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/farzad.jfr/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/farzad-jafari",
         "className": "fa fa-github"
       }
     ]
@@ -43,25 +39,20 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Qom University Of Technology",
+        "degree": "Bachelor's degree, comuter engineering ·",
+        "graduated": "(2010 - 2014)",
+        "description": "-"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
-      },
-      {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "FAX.IR",
+        "title": "Senior Frontend Developer",
+        "years": "June 2018 - August 2020 (2 years 3 months)",
+        "description": "My experiences in two years work on cloud-based online fax service are :At first, I fixed bugs and added new features in the web application withAngularJS.Then I migrated the web application from AngularJS to ReactJS.Also, I developed fax add-ons with Google App Script that integrates with GSuite[Google Sheets, Docs, and Gmail]."
       }
+      
     ],
     "skills": [
       {
@@ -75,11 +66,7 @@
       {
         "name": "Git",
         "level": "60%"
-      },
-      {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
-      },
+      },      
       {
         "name": "HTML5",
         "level": "80%"
@@ -93,46 +80,19 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "title": "Cloud-based Fax online service",
+        "category": "-",
         "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
-      },
-      {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "url": "-"
       }
+      
     ]
   },
   "testimonials": {
     "testimonials": [
       {
         "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "user": "-"
       }
     ]
   }
