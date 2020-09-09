@@ -3,8 +3,8 @@
     "name": "Farzad Jafari",
     "occupation": "ReactJS Developer",
     "description": "Full Stack React Developer by Day, Founder && Freelancer by Night.",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "image": "https://s.gravatar.com/avatar/82f59cffd144c6aaf08d78d386eedbdf?s=380",
+    "bio": "I enjoy learning, teaching and teamwork. I’m specialist in creating new ways for people to navigate them more quickly to the right path. I'm self-teacher and self- reliance in solving problems that others are afraid to confront. Sport is my hobby, I have energetic attitude to deal with new problems and to create new ways, I love to work in a happy, friendly and knowledgeable work place.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "f.jafari8990@gmail.com",
     "phone": "-",
@@ -38,6 +38,12 @@
   "resume": {
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
+      {
+        "school": "Islamic AZAD University,South Tehran branch",
+        "degree": "Master of Information Technology, E-commerce ·",
+        "graduated": "(2016)",
+        "description": "-"
+      },
       {
         "school": "Qom University Of Technology",
         "degree": "Bachelor's degree, comuter engineering ·",
